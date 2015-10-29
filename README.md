@@ -10,3 +10,6 @@ A chat bot for twitch.tv using Markov chains.
 
 ## Playing around with it
 Simply edit markov.js to play around with sentence generation algorithm.
+
+## Thanks
+Thanks to [brunal](https://github.com/brunal) for his [Markov chain code](https://gist.github.com/brunal/d7787c21f3b75bd0e608).
